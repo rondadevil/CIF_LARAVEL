@@ -15,7 +15,7 @@ Laravel is accessible, yet powerful, providing powerful tools needed for large, 
 
 ## Official Documentation
 
-Documentation for the entire framework can be found on the [Laravel website](http://laravel.com/docs).
+Google content for the entire framework can be found on the [Laravel website](http://laravel.com/docs).
 
 ### Contributing To Laravel
 
